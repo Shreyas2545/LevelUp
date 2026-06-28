@@ -1,3 +1,47 @@
+
+
+// let arr =[1,2,3,4,5,6,7,8,9,10];
+// let newarr = arr.reduce((result,current)=>{
+//     return result+current ;
+// });
+// console.log(newarr);
+
+
+// let arr = [1,2,3,4,5,6,7,8,9,10];
+// let newarr = arr.filter((value)=>{
+//     return value%2 === 0 ;
+// });
+// console.log(newarr);
+
+// / let num = [1,2,3,4,5];
+// let newnum  = num.map((value)=>{
+//     return value+10;
+// });
+
+// console.log(newnum);
+
+
+
+// let arr =[10,20,30,40,50];
+// arr.forEach((value,index)=>{
+//     console.log("Value is : " + value, "Index is : " + index);
+    
+// })
+
+// const sum_num = (num1 , num2) =>{
+//     // console.log(num1 + num2);
+//     return num1 + num2 ;
+// };
+
+// let result = sum_num(10,20)
+// console.log(result);
+
+// const arrow_function = (para1,para2)=> {
+//     console.log(`Name is ${para1} and sirname is ${para2}`);
+// };
+
+// arrow_function("Leonel","Messi");
+
 // function parameter_usage (message){
 //     console.log(message);
 // };
