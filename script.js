@@ -1,68 +1,101 @@
-
-let a = "Hello Shreyas"
-let ans = `Hey there , ${a} , ...Thanks for visiting us !`
-console.log(ans);
-
-// const obj ={
-//     name : 'Pen',
-//     price : 20,
-//     valueable : false,
+// function parameter_usage (message){
+//     console.log(message);
 // };
-// obj.valueable = true;
-// obj.color = "green";
-// for (let i in obj){
-//     console.log(i,obj[i]);
+
+// parameter_usage("Hello shreyas");
+
+// function msg(){
+//     console.log("hello shreyas");
 // }
-
-// let str ='Shreyas';
-// let ans = str.length;
-// console.log(ans);
+// msg();
 
 
-// let string = "M  Y"
 
-// for (let i in string){
+// let arr = ["shreyas","kunal","rahul","narendra","keshav"];
+// let stringconverter = arr.toString() ;
+// console.log(stringconverter);
+
+
+// let arr = ["shreyas","kunal","rahul","narendra","keshav"];
+// // arr[0] = "SHREYAS";
+// // console.log(arr);
+// // console.log(arr[2]);
+
+// arr.push("Abhir","Shrushti");
+// arr.pop();
+// arr.pop();
+// arr.pop();
+// arr.pop();
+
+// for (let i of arr){
 //     console.log(i);
     
 // }
 
-// let ans = confirm("Type here")
-// console.log(typeof ans);
+// // let a = "Hello Shreyas"
+// // let ans = `Hey there , ${a} , ...Thanks for visiting us !`
+// // console.log(ans);
+
+// // const obj ={
+// //     name : 'Pen',
+// //     price : 20,
+// //     valueable : false,
+// // };
+// // obj.valueable = true;
+// // obj.color = "green";
+// // for (let i in obj){
+// //     console.log(i,obj[i]);
+// // }
+
+// // let str ='Shreyas';
+// // let ans = str.length;
+// // console.log(ans);
 
 
-// let age = 17;
-// let result = age > 18 ? "you can vote " : "you cant vote";
-// console.log(result);
+// // let string = "M  Y"
 
-// let a = 10;
-// let b = "10";
+// // for (let i in string){
+// //     console.log(i);
+    
+// // }
 
-// if(a === b){
-//     alert("true");
-// }
-// else{
-//     alert("false");
-// }
-
-// let ans = confirm("Are u married ?");
-
-// if(ans){
-//     alert("You are a married person !")
-// }
-// else {
-//     alert("You aren't a married person !")
-// }
+// // let ans = confirm("Type here")
+// // console.log(typeof ans);
 
 
+// // let age = 17;
+// // let result = age > 18 ? "you can vote " : "you cant vote";
+// // console.log(result);
 
-// let a =1 ;
-// while(a == 1){
-//     alert("Stucked in loop")
-// }
+// // let a = 10;
+// // let b = "10";
 
-// let name = prompt("Whats ur name ?");
-// console.log("Name is " + name);
+// // if(a === b){
+// //     alert("true");
+// // }
+// // else{
+// //     alert("false");
+// // }
+
+// // let ans = confirm("Are u married ?");
+
+// // if(ans){
+// //     alert("You are a married person !")
+// // }
+// // else {
+// //     alert("You aren't a married person !")
+// // }
 
 
-// confirm("Are you there Shreyas ?")
-// alert("Hello Shreyas");
+
+// // let a =1 ;
+// // while(a == 1){
+// //     alert("Stucked in loop")
+// // }
+
+// // let name = prompt("Whats ur name ?");
+// // console.log("Name is " + name);
+
+
+// // confirm("Are you there Shreyas ?")
+// // alert("Hello Shreyas");
