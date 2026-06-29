@@ -1,3 +1,10 @@
+
+
+
+// let a = document.querySelector("h4");
+// console.log(a.tagName);
+// console.log(a.innerHTML);
+
 // let a = document.querySelectorAll("h4");
 // console.log(a);
 
