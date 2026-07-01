@@ -1,5 +1,18 @@
 
 
+// let button = document.getElementById("mybutton")
+// button.addEventListener("mouseover",()=>{
+//     console.log("clicked the button ");
+// });
+
+// let button = document.getElementById("mybutton")
+// let click_button_count = 0 ;
+// button.onclick=(e)=>{
+//     click_button_count +=1 ;
+//     console.log(e);
+//     console.log(e.target);
+//     console.log("Button Clicked successfully , times :" , click_button_count);
+// };
 
 // let a = document.querySelector("h4");
 // console.log(a.tagName);

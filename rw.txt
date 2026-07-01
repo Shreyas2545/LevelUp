@@ -1,0 +1,12 @@
+class Student {
+
+    constructor(name, age) {
+        this.name = name;
+        this.age = age;
+    }
+
+}
+
+let student1 = new Student("Shreyas", 19);
+
+console.log(student1);
