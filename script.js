@@ -1,4 +1,13 @@
-
+let a=10;
+let b=20;
+console.log("a+b is ", a+b);
+try{
+console.log("a+d is ", a+d);
+}
+catch(error){
+    console.log(error);
+};
+console.log("a+b is ",a+b);
 
 // class mom{
 //     feed(){
