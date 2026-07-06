@@ -1,3 +1,43 @@
+class mom{
+    feed(){
+        console.log("mom feeds to her baby");
+        
+    }
+}
+
+class baby extends mom {
+
+}
+let baby_1 = new baby();
+baby_1.feed();
+
+
+
+
+
+// class car{
+
+//     constructor(name,price){
+//         this.name=name;
+//         this.price=price;
+//     }
+//     start(){
+//         console.log("Starting the engine");
+//     }
+
+//     stop(){
+//         console.log("Switching off engine");
+//     }
+// };
+
+// let bmw = new car("bmw",7000000);
+// console.log(bmw.start());
+
+// function a(){
+
+// };
+// console.log(a());
+
 
 
 // let button = document.getElementById("mybutton")
