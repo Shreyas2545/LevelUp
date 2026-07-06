@@ -1,13 +1,20 @@
-let a=10;
-let b=20;
-console.log("a+b is ", a+b);
-try{
-console.log("a+d is ", a+d);
+sync=()=>{
+    console.log("Appeard after 3 seconds!!");
 }
-catch(error){
-    console.log(error);
-};
-console.log("a+b is ",a+b);
+setTimeout(sync,2000);
+console.log("Immediate");
+
+
+// let a=10;
+// let b=20;
+// console.log("a+b is ", a+b);
+// try{
+// console.log("a+d is ", a+d);
+// }
+// catch(error){
+//     console.log(error);
+// };
+// console.log("a+b is ",a+b);
 
 // class mom{
 //     feed(){
